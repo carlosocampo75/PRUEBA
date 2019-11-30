@@ -1,3 +1,6 @@
+![]
+
+NOMBRE(IMAGES/00_MAPA.PNG)
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/carlosocampo75/PRUEBA/edit/master/README.md) to maintain and preview the content for your website in Markdown files.

@@ -1,4 +1,4 @@
-![CAPTURA](IMAGEN/Captura de pantalla (2).png)
+![CAPTURA](IMAGEN/captura.png)
 
 
 ## Welcome to GitHub Pages

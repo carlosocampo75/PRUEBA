@@ -1,6 +1,6 @@
-![]
+![CAPTURA DE PANTALLA](IMAGEN/Captura de pantalla (2).png)
 
-NOMBRE(IMAGES/Captura de pantalla (2).png)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/carlosocampo75/PRUEBA/edit/master/README.md) to maintain and preview the content for your website in Markdown files.

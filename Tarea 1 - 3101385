@@ -16,4 +16,16 @@ no cause mayores traumatismos.
 
 *Descripción del mapa temático*
 
-El mapa muestra principalmente las redes que por su edad deberan ser cambiadas o construidas
+El mapa muestra principalmente las redes que por su edad deberan ser cambiadas o construidas, 
+las redes son:
+
+REDES DE ACUEDUCTO
+REDES DE ALCANTARILLADO SANITARIO
+
+Los atibutos que se muestran de las redes son El diametro y su material.
+
+Ademas de estas capas se utilizaron las capas de nomenclatura vial y de manzaneo Bajadas de 
+la pagina de datos abieros de Mapas Bogotá
+
+El sistema de referencia de coordenadas es el 102233 MAGNA-CIUDAD-BOGOTA
+![CAPTURA](IMAGENES_TAREA_1/MAPA_1.JPG)

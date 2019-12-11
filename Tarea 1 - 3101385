@@ -1,4 +1,4 @@
-##### TAREA 01: CREACION DE MAPAS TEMATICOS CON QGIS
+#####TAREA 01: CREACION DE MAPAS TEMATICOS CON QGIS
 
 ## MAPA DE REDES DE ACUEDUCTO Y ALCANTARILLADO SANITARIO DISEÑADAS PARA RENOVAR LAS EXISTENTES
 
@@ -27,5 +27,12 @@ Los atibutos que se muestran de las redes son El diametro y su material.
 Ademas de estas capas se utilizaron las capas de nomenclatura vial y de manzaneo Bajadas de 
 la pagina de datos abieros de Mapas Bogotá
 
+Los datos de redes son propios.
+
 El sistema de referencia de coordenadas es el 102233 MAGNA-CIUDAD-BOGOTA
+
 ![MAPA_1](IMAGENES_TAREA_1/MAPA_1.JPG)
+
+#### Pasos para la creacion de un mapa para publicar:*
+
+1. 

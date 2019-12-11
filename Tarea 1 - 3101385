@@ -33,6 +33,22 @@ El sistema de referencia de coordenadas es el 102233 MAGNA-CIUDAD-BOGOTA
 
 ![MAPA_1](IMAGENES_TAREA_1/MAPA_1.JPG)
 
-#### Pasos para la creacion de un mapa para publicar:*
+*LINKS PARA USAR EN LA WEB YEN SERVICIOS WMS*
 
-1. 
+LINK PARA ABRIR MAPA EN LA WEB: https://qgiscloud.com/carlosocampo75/REDES_PROYECTADAS_B_PASADENA_2/
+
+LINK DEL SERVICIO WMS: https://wms.qgiscloud.com/carlosocampo75/REDES_PROYECTADAS_B_PASADENA_2/
+
+#### Pasos para la creacion de un mapa para publicar:
+
+1. CREACION DEL MAPA EN QGIS VERSION 3.4
+2. SUBIR INFORMACIÓN QGIS CLOUD
+![Captura1_proyectadas](IMAGENES_TAREA_1/Captura1_proyectadas.JPG)
+![Captura1_publicar_mapas](IMAGENES_TAREA_1/Captura1_publicar_mapas.JPG)
+3. GENERACIÓN DE LINKS PARA USO DEL MAPA
+![Captura1_publicar_mapas_2](IMAGENES_TAREA_1/Captura1_publicar_mapas_2.JPG)
+4. PUBLICACION DEL MAPA EN LA WEB
+![Mapa_Publicado](IMAGENES_TAREA_1/Mapa_Publicado.JPG)
+
+
+
